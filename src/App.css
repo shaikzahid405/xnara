@@ -19,3 +19,12 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
 
 
 }
+
+@media screen and (max-width:425px){
+
+.xnara__container{
+  margin-top:100px;
+  max-width:90vw;
+}
+
+}
